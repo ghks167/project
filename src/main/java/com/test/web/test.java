@@ -14,5 +14,9 @@ public class test{
 		
 	}
 	
+	public void bbbb () {
+		System.out.println("ssdfdf");
+	}
+	
 
 }
