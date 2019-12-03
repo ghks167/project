@@ -14,9 +14,5 @@ public class test{
 	public void aaa() {
 		System.out.println("aoaoaoa");
 	}
-	
-	public void cc() {
-		System.out.println("cccccc");
-	}
 
 }
