@@ -7,16 +7,19 @@ public class test{
 		System.out.println("테스트테스트");
 		System.out.println("테스트테스트");
 		System.out.println("테스트테스트");
-		System.out.println("테스트테스트");
-		System.out.println("테스트테스트");
-		System.out.println("테스트테스트");
-		System.out.println("테스트테스트");
+		
 		
 	}
 	
+
 	public void bbbb () {
 		System.out.println("ssdfdf");
 	}
 	
+
+	public void aaa() {
+		System.out.println("aoaoaoa");
+	}
+
 
 }
