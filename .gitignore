@@ -87,6 +87,7 @@ local.properties
 .nfs*
 
 ### Maven ###
+*/target/*
 target/
 pom.xml.tag
 pom.xml.releaseBackup
